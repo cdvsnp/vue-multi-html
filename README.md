@@ -2,6 +2,8 @@
 
 ## A multiple Pages Starter use Vue-cli3
 
+Basic configuration to generate .html for each view.
+
 ## Project setup
 
 download and:
