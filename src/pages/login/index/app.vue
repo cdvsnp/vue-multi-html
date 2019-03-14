@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    {{msg}} <a href="/login">Inverso</a>
+    {{msg}}
   </div>
 </template>
 
@@ -8,10 +8,11 @@
 export default {
   data() {
     return {
-      msg: 'Use Vue 2.0 Today!',
+      msg: 'Login bello',
     };
   },
   methods: {
+
   },
 };
 </script>

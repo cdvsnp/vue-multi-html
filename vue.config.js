@@ -1,6 +1,6 @@
-'use strict'
-const titles = require('./title.js')
-const glob = require('glob')
+const titles = require('./title.js');
+const glob = require('glob');
+
 const pages = {}
 
 glob.sync('./src/pages/**/app.js').forEach(path => {
